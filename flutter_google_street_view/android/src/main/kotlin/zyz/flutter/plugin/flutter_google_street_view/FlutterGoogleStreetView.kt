@@ -1,4 +1,4 @@
-package dig.flutter.plugin.flutter_google_street_view
+package zyz.flutter.plugin.flutter_google_street_view
 
 import android.content.Context
 import android.graphics.Point

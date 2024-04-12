@@ -1,4 +1,4 @@
-package dig.flutter.plugin.flutter_google_street_view
+package zyz.flutter.plugin.flutter_google_street_view
 
 import android.graphics.Point
 import com.google.android.gms.maps.model.*

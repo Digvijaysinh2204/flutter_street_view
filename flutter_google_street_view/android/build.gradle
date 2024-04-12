@@ -1,4 +1,4 @@
-group 'dig.flutter.plugin.flutter_google_street_view'
+group 'zyz.flutter.plugin.flutter_google_street_view'
 version '1.0-SNAPSHOT'
 
 buildscript {
